@@ -1,5 +1,7 @@
 README.md
 setup.py
+lambdata/__init__.py
+lambdata/lambdata_mherbert93.py
 lambdata_mherbert93.egg-info/PKG-INFO
 lambdata_mherbert93.egg-info/SOURCES.txt
 lambdata_mherbert93.egg-info/dependency_links.txt
