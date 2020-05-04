@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: lambdata-mherbert93
+Version: 1.0
+Summary: Test package
+Home-page: https://github.com/mherbert93/ds-unit-3-sprint-1
+Author: Martin Herbert
+Author-email: martinherbert93@gmail.com
+License: UNKNOWN
+Description: # ds-unit-3-sprint-1
+        
+        This is a test package.
+        
+Platform: UNKNOWN
+Description-Content-Type: text/markdown

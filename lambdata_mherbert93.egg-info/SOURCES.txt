@@ -1,0 +1,6 @@
+README.md
+setup.py
+lambdata_mherbert93.egg-info/PKG-INFO
+lambdata_mherbert93.egg-info/SOURCES.txt
+lambdata_mherbert93.egg-info/dependency_links.txt
+lambdata_mherbert93.egg-info/top_level.txt
