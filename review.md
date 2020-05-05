@@ -1,0 +1,1 @@
+Overall it is great code and very clear. It is very easy to follow the code and understand what it's doing. I was able to import the package and use the functions effectively. The layout was visually appeasing and flowed well. One minor thing is just the names of the files (I'm reaching here because there is not really anything to criticize).
