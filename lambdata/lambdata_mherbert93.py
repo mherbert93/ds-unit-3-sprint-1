@@ -43,13 +43,12 @@ class Baseline:
 
 if __name__ == "__main__":
     import pandas as pd
-    df = pd.DataFrame({'target': ['True', 'True', 'True', 'True', 'False'], 'feature1': [5, 6, 4, 5, 5]})
+    df = pd.DataFrame({'target': [1, 1, 1, 1, 0], 'feature1': [5, 6, 4, 5, 5]})
     baseline = Baseline(dataframe=df, target='target')
     print("Baseline accuracy is: ", baseline.accuracy())
 
     df = pd.DataFrame({'target': [250, 300, 225, 400, 600], 'feature1': [2, 3, 2, 5, 7]})
     baseline = Baseline(dataframe=df, target='target')
     print("Baseline MAE is: ", baseline.mae())
-
 
 
