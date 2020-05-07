@@ -17,5 +17,5 @@ RUN apt-get update && \
   pip3 install pipenv
 
 ### Install via pip or pipenv:
-RUN pip install -i https://test.pypi.org/simple/ lambdata-mherbert93
+RUN pip3 install -i https://test.pypi.org/simple/ lambdata-mherbert93
 #RUN pipenv install pandas
