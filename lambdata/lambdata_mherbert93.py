@@ -1,4 +1,12 @@
 class Baseline:
+"""
+Base class which contains the methods mae() and accuracy()
+
+Parameters
+----------
+dataframe: Expects pandas.DataFrame
+target: Column of the target(y-variable)
+"""
     def __init__(self, dataframe, target):
         self.dataframe = dataframe
         self.target = target
